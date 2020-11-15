@@ -1,0 +1,12 @@
+
+- [2020/09/05 - GitOps Demo 及介紹](https://www.facebook.com/technologynoteniu/posts/113756857125122)
+- [2020/09/11 - GitOps 帶來的痛點與反思](https://www.facebook.com/technologynoteniu/posts/118905326610275)
+- [2020/09/11 - 單體式架構 v.s 微服務架構](https://www.facebook.com/technologynoteniu/posts/119240203243454)
+- [2020/09/12 - Kubernetes CI/CD 工具雷達報告](https://www.facebook.com/technologynoteniu/posts/119347956566012)
+- [2020/09/22 - CI/CD 部署策略比較](https://www.facebook.com/technologynoteniu/posts/133250015175806)
+- [2020/10/16 - GitOps 到底解決了什麼問題](https://www.facebook.com/technologynoteniu/posts/144275300739944)
+- [2020/10/17 - 什麼是 GitOps? ](https://www.facebook.com/technologynoteniu/posts/144729410694533)
+- [2020/10/17 - 淺談 GitOps 過往 ](https://www.facebook.com/technologynoteniu/posts/145132500654224)
+- [2020/10/18 - 淺談 GitOps 過往 ](https://www.facebook.com/technologynoteniu/posts/145132500654224)
+- [2020/10/19 - GitOps 工具的選擇 ](https://www.facebook.com/technologynoteniu/posts/145512047282936)
+- [2020/10/20 - GitOps 實作上的挑戰](https://www.facebook.com/technologynoteniu/posts/145888253911982)

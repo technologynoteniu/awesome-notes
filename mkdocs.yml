@@ -15,11 +15,12 @@ nav:
       - Introduction: kubernetes/introduction.md
       - CI/CD: kubernetes/cicd.md
       - Network: kubernetes/network.md
-      - Storage: kubernetes/storage.md
       - Observability: kubernetes/observability.md
+      - Use Case: kubernetes/usecase.md
+      - Tools: kubernetes/tool.md
   - Linux:
       - Network: linux/network.md
-      - Storage: linux/storage.md
+      - Container: linux/container.md
       - Tool: linux/tool.md
   - Infrastructure as Code:
       - Terraform: iac/terraform.md
