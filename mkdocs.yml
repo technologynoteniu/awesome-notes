@@ -11,6 +11,8 @@ theme:
   palette:
     primary: teal
     scheme: preference
+  features:
+    - navigation.instant
 nav:
   - Home: README.md
   - Kubernetes:
@@ -37,3 +39,6 @@ extra:
       link: https://www.facebook.com/technologynoteniu
     - icon: fontawesome/brands/github
       link: https://github.com/technologynoteniu
+markdown_extensions:
+  - toc:
+      permalink: true
