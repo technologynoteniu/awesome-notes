@@ -1,19 +1,27 @@
 site_name: '矽谷牛的耕田筆記'
 theme:
   name: material
-
+  palette:
+    primary: indigo
+  features:
+    - header.autohid
 nav:
   - Home: README.md
-  - Kubernetes: 
-    - Introduction: kubernetes/introduction.md
-    - CI/CD: kubernetes/cicd.md
-    - Network: kubernetes/network.md
-    - Storage: kubernetes/storage.md
-    - Observability: kubernetes/observability.md
+  - Kubernetes:
+      - Introduction: kubernetes/introduction.md
+      - CI/CD: kubernetes/cicd.md
+      - Network: kubernetes/network.md
+      - Storage: kubernetes/storage.md
+      - Observability: kubernetes/observability.md
   - Linux:
-    - Network: linux/network.md
-    - Storage: linux/storage.md
-    - Tool: linux/tool.md
+      - Network: linux/network.md
+      - Storage: linux/storage.md
+      - Tool: linux/tool.md
   - Infrastructure as Code:
-    - Terraform: iac/terraform.md
-
+      - Terraform: iac/terraform.md
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/technologynoteniu
+    - icon: fontawesome/brands/github
+      link: https://github.com/technologynoteniu
