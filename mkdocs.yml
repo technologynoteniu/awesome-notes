@@ -1,5 +1,7 @@
 site_name: '矽谷牛的耕田筆記'
+copyright: Copyright &copy; 2019 - 2020 technologynoteniu
 theme:
+  custom_dir: overrides
   icon:
     logo: material/bookshelf
   font:
@@ -27,6 +29,8 @@ nav:
       - Terraform: iac/terraform.md
 extra:
   social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/technologynote
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/technologynoteniu
     - icon: fontawesome/brands/github
