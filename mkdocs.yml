@@ -1,8 +1,13 @@
 site_name: '矽谷牛的耕田筆記'
 theme:
+  icon:
+    logo: material/bookshelf
+  font:
+    text: Noto Sans TC
+  language: zh-TW
   name: material
   palette:
-    primary: indigo
+    primary: teal
   features:
     - header.autohid
 nav:
