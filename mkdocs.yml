@@ -16,6 +16,7 @@ nav:
       - CI/CD: kubernetes/cicd.md
       - Network: kubernetes/network.md
       - Observability: kubernetes/observability.md
+      - Service Mesh: kubernetes/service-mesh.md
       - Use Case: kubernetes/usecase.md
       - Tools: kubernetes/tool.md
   - Linux:
