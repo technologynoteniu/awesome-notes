@@ -27,6 +27,7 @@ nav:
       - Tool: linux/tool.md
   - Infrastructure as Code:
       - Terraform: iac/terraform.md
+  - Talks: talks.md
   - Personal Donation: donations.md
 extra:
   social:
