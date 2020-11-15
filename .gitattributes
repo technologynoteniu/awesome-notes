@@ -1,0 +1,1 @@
+mkdocs.yml filter=git-crypt diff=git-crypt
