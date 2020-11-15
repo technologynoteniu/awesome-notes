@@ -8,8 +8,7 @@ theme:
   name: material
   palette:
     primary: teal
-  features:
-    - header.autohid
+    scheme: preference
 nav:
   - Home: README.md
   - Kubernetes:
