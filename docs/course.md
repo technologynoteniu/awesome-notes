@@ -16,16 +16,14 @@ Kubernetes 與 Docker 非常不一樣，其複雜程度不是一個量級可以�
 - Kubernetes 基礎課程，該課程會從基本談起，為什麼需要 Kubernetes，其與 Docker 的差異是什麼，Kubernetes 能夠解決什麼問題，並且從安裝，運算，網路，儲存等四大面向來談起，讓你學起來更加得心應手，可以知道其背後原理，對於以後觀看任何文章都能夠更有共鳴
 
 - Kubernetes CI/CD 整合，本課程探討如何將 CI/CD 的概念與 Kubernetes 整合，會從一個完整的 CI/CD 流水線去看，從最初的本地開發，應用程式打包，CI 可以怎麼做，CD 可以怎麼做，並且探討不同的 CI/CD 方式。透過理解這些方式後，接下來使用各種不同的工具都不會覺得太困難，因為我們掌握的是分析問題的能力
-並且從問題中學習到自己需要什麼，再由這個需求找到正確工具來整合。
-
-- Kuberentes 實戰除錯篇，本課程基於 Kubernetes 龐大架構內，實戰上才遇到的迷思與錯誤，每一個章節都有完整的 Demo 環境，讓你知道每個元件出錯時可能會造成什麼樣的後果，或是這些元件應該要怎麼用，使用上有什麼限制以及要注意的地方。透過本課程你會對 Kubernetes 更加裡解，同時使用上會更有信心與能力去使用，縱使遇到問題時也會有能力知道該從哪邊下手去判斷錯誤。
+並且從問題中學習到自己需要什麼，再由這個需求找到正確工具來整合。- Kuberentes 實戰除錯篇，本課程基於 Kubernetes 龐大架構內，實戰上才遇到的迷思與錯誤，每一個章節都有完整的 Demo 環境，讓你知道每個元件出錯時可能會造成什麼樣的後果，或是這些元件應該要怎麼用，使用上有什麼限制以及要注意的地方。透過本課程你會對 Kubernetes 更加裡解，同時使用上會更有信心與能力去使用，縱使遇到問題時也會有能力知道該從哪邊下手去判斷錯誤。
 
 以下是課程相關的購買連結，歡迎有興趣學習的朋友支持支持，或是幫忙分享:)
 
 [基礎概念](https://hiskio.com/courses/349?promo_code=13LY5RE)
 
-[疑難雜症除錯篇](https://hiskio.com/courses/440/about?promo_code=7EP1KY3)
+[疑難雜症除錯篇](https://hiskio.com/courses/440/about?promo_code=VEQ4N7G)
 
 [單堂(CI/CD)](https://hiskio.com/courses/385?promo_code=13K49YE&p=blog1)
 
-[組合包(三堂課程一起購買，目前特價中)](https://hiskio.com/packages/JPwq4znr1)
+[組合包(三堂課程一起購買，目前特價中)](https://hiskio.com/packages/7ey2vdnyN)
