@@ -10,3 +10,5 @@
 - [2020/10/18 - 淺談 GitOps 過往 ](https://www.facebook.com/technologynoteniu/posts/145132500654224)
 - [2020/10/19 - GitOps 工具的選擇 ](https://www.facebook.com/technologynoteniu/posts/145512047282936)
 - [2020/10/20 - GitOps 實作上的挑戰](https://www.facebook.com/technologynoteniu/posts/145888253911982)
+- [2020/11/26 - GitOps 中如何做好 Secret Management](https://www.facebook.com/technologynoteniu/posts/168101821690625)
+- [2020/11/28 - 使用 CircleCI & ArgoCD 來幫 k8s 打造 GitOps](https://www.facebook.com/technologynoteniu/posts/170963384737802)

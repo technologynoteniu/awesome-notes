@@ -7,3 +7,5 @@
 - [2020/11/16 - 三個加強 Kubernetes 服務穩定性的經驗](https://www.facebook.com/technologynoteniu/posts/158992122601595)
 - [2020/11/17 - lambda 團隊多年 Kubernetes 的經驗分享](https://www.facebook.com/technologynoteniu/posts/159354259232048)
 - [2020/11/19 - Apple 公開宣佈內部服務將全面轉為 Kubernetes](https://www.facebook.com/technologynoteniu/posts/161171765716964)
+- [2020/11/21 - Windows Node 使用經驗分享](https://www.facebook.com/technologynoteniu/posts/162808032220004)
+- [2020/11/25 - etcd 正式從 CNCF 畢業囉](https://www.facebook.com/technologynoteniu/posts/166916091809198)
