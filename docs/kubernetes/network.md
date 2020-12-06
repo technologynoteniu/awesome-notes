@@ -6,3 +6,5 @@
 - [2020/11/10 - 使用 Open Policy Agent 來保護 Ingress 的誤用](https://www.facebook.com/technologynoteniu/posts/155472792953528)
 - [2020/11/14 - NodeLocalDNS 來避免 DNS 5 秒 Timeout](https://www.facebook.com/technologynoteniu/posts/157470452753762)
 - [2020/11/23 - 地端 LoadBalancer 解決方案: porter](https://www.facebook.com/technologynoteniu/posts/165664161934391)
+- [2020/12/01 - CNI Calico 安裝的選擇](https://www.facebook.com/technologynoteniu/posts/172101251290682)
+- [2020/12/02 - Flannel CNI 下潛在的 IP 重複問題](https://www.facebook.com/technologynoteniu/posts/173074947859979)

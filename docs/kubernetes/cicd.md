@@ -11,4 +11,6 @@
 - [2020/10/19 - GitOps 工具的選擇 ](https://www.facebook.com/technologynoteniu/posts/145512047282936)
 - [2020/10/20 - GitOps 實作上的挑戰](https://www.facebook.com/technologynoteniu/posts/145888253911982)
 - [2020/11/26 - GitOps 中如何做好 Secret Management](https://www.facebook.com/technologynoteniu/posts/168101821690625)
-- [2020/11/28 - 使用 CircleCI & ArgoCD 來幫 k8s 打造 GitOps](https://www.facebook.com/technologynoteniu/posts/170963384737802)
+- [2020/11/29 - 使用 DORA 幫你的 DevOps 效率進行測量](https://www.facebook.com/technologynoteniu/posts/170022318165242)
+- [2020/11/30 - 使用 CircleCI & ArgoCD 來幫 k8s 打造 GitOps](https://www.facebook.com/technologynoteniu/posts/170963384737802)
+- [2020/12/05 - 使用 Flagger 幫你的應用程式導入金絲雀部署](https://www.facebook.com/technologynoteniu/posts/176167600884047)
