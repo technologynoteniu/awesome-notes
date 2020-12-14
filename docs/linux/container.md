@@ -6,3 +6,6 @@
 - [2020/11/07 - Docker 網路模型實驗篇中](https://www.facebook.com/technologynoteniu/posts/154008856433255)
 - [2020/11/11 - Container Image 的儲存挑戰](https://www.facebook.com/technologynoteniu/posts/155859926248148)
 - [2020/11/21 - Docker 網路模型實驗篇下](https://www.facebook.com/technologynoteniu/posts/163174748849999)
+- [2020/12/09 - 探討 Kubernetes x Docker x OCI 的差異](https://www.facebook.com/technologynoteniu/posts/179715440529263)
+- [2020/12/11 - 若不使用 Docker，可以使用什麼服務?](https://www.facebook.com/technologynoteniu/posts/181027540398053)
+- [2020/12/14 - 如何透過安全掃描工具來提升 Container Image 的安全性](https://www.facebook.com/technologynoteniu/posts/183046206862853)

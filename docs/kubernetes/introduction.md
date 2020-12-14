@@ -14,3 +14,4 @@
 - [2020/11/19 - Service Account 介紹](https://www.facebook.com/technologynoteniu/posts/162202288947245)
 - [2020/12/03 - Kubernetes 1.20 逐漸移除 dockershim](https://www.facebook.com/technologynoteniu/posts/173877564446384)
 - [2020/12/05 - 探討 SLO 的設定技巧與概念](https://www.facebook.com/technologynoteniu/posts/176971417470332)
+- [2020/12/11 - Stateful 的概念介紹](https://www.facebook.com/technologynoteniu/posts/180810593753081)

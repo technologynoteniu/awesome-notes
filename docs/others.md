@@ -1,2 +1,5 @@
 
-- [2020/10/5 - Java 應用程式於容器內的效能問題](https://www.facebook.com/technologynoteniu/posts/139325047901636)
+- [2020/10/05 - Java 應用程式於容器內的效能問題](https://www.facebook.com/technologynoteniu/posts/139325047901636)
+- [2020/12/08 - 探討不同類型的架設模式](https://www.facebook.com/technologynoteniu/posts/178555590645248)
+- [2020/12/12 - JVM 應用程式效能上的部署問題](https://www.facebook.com/technologynoteniu/posts/181801863653954)
+- [2020/12/13 - DevOps 面試時可能會問到的相關問題](https://www.facebook.com/technologynoteniu/posts/182329460267861)

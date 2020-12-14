@@ -8,3 +8,4 @@
 - [2020/11/23 - 地端 LoadBalancer 解決方案: porter](https://www.facebook.com/technologynoteniu/posts/165664161934391)
 - [2020/12/01 - CNI Calico 安裝的選擇](https://www.facebook.com/technologynoteniu/posts/172101251290682)
 - [2020/12/02 - Flannel CNI 下潛在的 IP 重複問題](https://www.facebook.com/technologynoteniu/posts/173074947859979)
+- [2020/12/09 - 探討 Kubernetes 內的 timeout 問題](https://www.facebook.com/technologynoteniu/posts/179351013899039)
