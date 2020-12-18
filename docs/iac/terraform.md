@@ -1,4 +1,3 @@
-
-- [2020/09/28 - Terraform Module 依賴性討論](https://www.facebook.com/technologynoteniu/posts/136158074885000)
+- [2020/12/4 - Terraform 於 CI/CD 來自動化你的架構修改](https://www.facebook.com/technologynoteniu/posts/175367334297407)
 - [2020/11/21 - Terraform 開發的經驗與技巧](https://www.facebook.com/technologynoteniu/posts/163027828864691)
-- [2020/12/04 - Terraform 於 CI/CD 來自動化你的架構修改](https://www.facebook.com/technologynoteniu/posts/175367334297407)
+- [2020/9/28 - Terraform Module 依賴性討論](https://www.facebook.com/technologynoteniu/posts/136158074885000)
