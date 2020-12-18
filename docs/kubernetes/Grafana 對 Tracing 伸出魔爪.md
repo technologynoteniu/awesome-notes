@@ -1,1 +1,0 @@
-- [2020/11/4 - observability tempo](https://www.facebook.com/technologynoteniu/posts/152229139944560)
