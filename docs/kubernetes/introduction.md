@@ -9,7 +9,7 @@
 - [2020/10/08 - Kubernetes 有趣 Demo 玩法](https://www.facebook.com/technologynoteniu/posts/140250747809066)
 - [2020/10/09 - Kubernetes manageFields 討論](https://www.facebook.com/technologynoteniu/posts/141084067725734)
 - [2020/10/30 - Kubernetes Ingress Stable](https://www.facebook.com/technologynoteniu/posts/150231760144298)
-- [2020/11/03 - KubeMQ, 基於 Kubernetes 內的 Message Queue](https://www.facebook.com/technologynoteniu/posts/151817666652374)
+- [2020/11/03 - KubeMQ 基於 Kubernetes 內的 Message Queue](https://www.facebook.com/technologynoteniu/posts/151817666652374)
 - [2020/11/05 - CRD 的入門介紹](https://www.facebook.com/technologynoteniu/posts/152603559907118)
 - [2020/11/19 - Service Account 介紹](https://www.facebook.com/technologynoteniu/posts/162202288947245)
 - [2020/12/03 - Kubernetes 1.20 逐漸移除 dockershim](https://www.facebook.com/technologynoteniu/posts/173877564446384)
