@@ -1,3 +1,5 @@
+- [2020/12/17 -  為什麼 Linked 決定自行打造 Linkerd2-proxy 而不使用主流的 Enovy]( https://www.facebook.com/technologynoteniu/posts/185215013312639)
+- [2020/12/15 - kubernetes 下 vxlan 導致的 63 delay問題](https://www.facebook.com/technologynoteniu/posts/183787650122042)
 - [2020/12/9 - 探討 Kubernetes 內的 timeout 問題](https://www.facebook.com/technologynoteniu/posts/179351013899039)
 - [2020/12/2 - Flannel CNI 下潛在的 IP 重複問題](https://www.facebook.com/technologynoteniu/posts/173074947859979)
 - [2020/12/1 - CNI Calico 安裝的選擇](https://www.facebook.com/technologynoteniu/posts/172101251290682)

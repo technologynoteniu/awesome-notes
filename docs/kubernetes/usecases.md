@@ -1,3 +1,4 @@
+- [2020/12/16 -  如果可以重來，你會想要怎麼設計 kubernetes]( https://www.facebook.com/technologynoteniu/posts/184646260036181)
 - [2020/12/3 - TSMC 徵求 DevOps (Kubernetes) 人才](https://www.facebook.com/technologynoteniu/posts/173262897841184)
 - [2020/11/25 - etcd 正式從 CNCF 畢業囉](https://www.facebook.com/technologynoteniu/posts/166916091809198)
 - [2020/11/21 - Windows Node 使用經驗分享](https://www.facebook.com/technologynoteniu/posts/162808032220004)
