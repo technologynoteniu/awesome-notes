@@ -1,7 +1,6 @@
 
 ### Incoming
-
-- [2020/12/18 - 當 Jenkins 遇上 Infrastructure as Code，會發生什麼事情?](https://www.meetup.com/CloudNative-Taiwan/events/273789777/)
+- [2021/01/09 - 當 Jenkins 遇上 Infrastructure as Code，會發生什麼事情?(台中線下活動)](https://www.facebook.com/events/2794605450797802/)
 
 ### Podcast
 
@@ -36,3 +35,5 @@
 - [2020/07/11 - IP Virtual Server(IPVS)101](https://www.youtube.com/watch?v=6ZaUIRZ-SO8)
 - [2020/08/22 - GitOps 101](https://www.youtube.com/watch?v=1n2JsOIiHP8)
 - [2020/09/26 - CRI&OCI 介紹](https://youtu.be/5JhQOjSSnzQ)
+- [2020/12/17 - When Cloud Native Meets 5G/LTE Private Edge Cloud]()
+- [2020/12/18 - 當 Jenkins 遇上 Infrastructure as Code，會發生什麼事情?](https://youtu.be/M-c_Pn18aZY)
