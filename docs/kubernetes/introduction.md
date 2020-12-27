@@ -1,3 +1,7 @@
+- [2020/12/27 -  Liveness/Readiness 介紹](https://www.facebook.com/technologynoteniu/posts/194061299094677)
+- [2020/12/24 -  Kubernetes Job 介紹]( https://www.facebook.com/technologynoteniu/posts/191446296022844)
+- [2020/12/21 -  Knative Serverless 方案介紹]( https://www.facebook.com/technologynoteniu/posts/188924539608353)
+- [2020/12/20 -  Opetator 介紹文]( https://www.facebook.com/technologynoteniu/posts/188184803015660)
 - [2020/12/18 -  service catalog 的介紹](https://www.facebook.com/technologynoteniu/posts/186718283162312)
 - [2020/12/11 - Stateful 的概念介紹](https://www.facebook.com/technologynoteniu/posts/180810593753081)
 - [2020/12/5 - 探討 SLO 的設定技巧與概念](https://www.facebook.com/technologynoteniu/posts/176971417470332)

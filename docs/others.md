@@ -1,3 +1,5 @@
+- [2020/12/20 -  遠傳加入 ONF]( https://www.facebook.com/technologynoteniu/posts/188334676334006)
+- [2020/12/20 -  GitHub 2021 認證方式改變]( https://www.facebook.com/technologynoteniu/posts/188312686336205)
 - [2020/12/13 - DevOps 面試時可能會問到的相關問題](https://www.facebook.com/technologynoteniu/posts/182329460267861)
 - [2020/12/12 - JVM 應用程式效能上的部署問題](https://www.facebook.com/technologynoteniu/posts/181801863653954)
 - [2020/12/8 - 探討不同類型的架設模式](https://www.facebook.com/technologynoteniu/posts/178555590645248)

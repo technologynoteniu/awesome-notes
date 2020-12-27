@@ -1,0 +1,1 @@
+- [2020/12/22 -  Kubernetes 內的版本管理經驗]( https://www.facebook.com/technologynoteniu/posts/189996906167783)
