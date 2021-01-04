@@ -1,3 +1,4 @@
+- [2021/01/02 -  terraform try/can 功能談]( https://www.facebook.com/technologynoteniu/posts/198137098687097)
 - [2020/12/25 -  小技巧打造更穩健的 Terraform]( https://www.facebook.com/technologynoteniu/posts/192175929283214)
 - [2020/12/4 - Terraform 於 CI/CD 來自動化你的架構修改](https://www.facebook.com/technologynoteniu/posts/175367334297407)
 - [2020/11/21 - Terraform 開發的經驗與技巧](https://www.facebook.com/technologynoteniu/posts/163027828864691)
