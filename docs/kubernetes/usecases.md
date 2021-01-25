@@ -1,6 +1,7 @@
 - [2021/01/08 -  Jenkins 的一種玩法]( https://www.facebook.com/technologynoteniu/posts/202375511596589)
 - [2020/12/31 -  自動化的準則與經驗談]( https://www.facebook.com/technologynoteniu/posts/196695848831222)
 - [2020/12/29 -  Kubernetes 管理經驗談]( https://www.facebook.com/technologynoteniu/posts/195388485628625)
+- [2020/12/22 -  Kubernetes 內的版本管理經驗]( https://www.facebook.com/technologynoteniu/posts/189996906167783)
 - [2020/12/16 -  如果可以重來，你會想要怎麼設計 kubernetes]( https://www.facebook.com/technologynoteniu/posts/184646260036181)
 - [2020/12/3 - TSMC 徵求 DevOps (Kubernetes) 人才](https://www.facebook.com/technologynoteniu/posts/173262897841184)
 - [2020/11/25 - etcd 正式從 CNCF 畢業囉](https://www.facebook.com/technologynoteniu/posts/166916091809198)
