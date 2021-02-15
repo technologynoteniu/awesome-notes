@@ -1,1 +1,0 @@
-- [2021/01/21 -  Terraform 範例介紹文]( https://www.facebook.com/technologynoteniu/posts/211760017324805)

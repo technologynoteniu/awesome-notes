@@ -1,3 +1,5 @@
+- [2021/01/27 -  透過 Terraform 創建wordpress 的範例](https://www.facebook.com/technologynoteniu/posts/215764940257646)
+- [2021/01/21 -  Terraform 範例介紹文]( https://www.facebook.com/technologynoteniu/posts/211760017324805)
 - [2021/01/02 -  terraform try/can 功能談]( https://www.facebook.com/technologynoteniu/posts/198137098687097)
 - [2020/12/25 -  小技巧打造更穩健的 Terraform]( https://www.facebook.com/technologynoteniu/posts/192175929283214)
 - [2020/12/4 - Terraform 於 CI/CD 來自動化你的架構修改](https://www.facebook.com/technologynoteniu/posts/175367334297407)

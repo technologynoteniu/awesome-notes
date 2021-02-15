@@ -1,3 +1,4 @@
+- [2021/02/10 -  Prometheus 教學文]( https://www.facebook.com/technologynoteniu/posts/224611209373019)
 - [2020/11/27 - 探討可觀測性的幾個重要 API](https://www.facebook.com/technologynoteniu/posts/168920628275411)
 - [2020/11/4 - Grafana 對 Tracing 伸出魔爪 Tempo](https://www.facebook.com/technologynoteniu/posts/152229139944560)
 - [2020/10/13 - Kubernetes 可觀測性雷達報告](https://www.facebook.com/technologynoteniu/posts/142819904218817)

@@ -1,3 +1,6 @@
+- [2021/02/12 -  如何運行一個最便宜的K8s 叢集]( https://www.facebook.com/technologynoteniu/posts/225951499238990)
+- [2021/02/08 -  如何踏入 kubernetes 原始碼]( https://www.facebook.com/technologynoteniu/posts/223360019498138)
+- [2021/01/31 -  kubectl 1.18 帶來的不相容改變]( https://www.facebook.com/technologynoteniu/posts/218323670001773)
 - [2021/01/08 -  Jenkins 的一種玩法]( https://www.facebook.com/technologynoteniu/posts/202375511596589)
 - [2020/12/31 -  自動化的準則與經驗談]( https://www.facebook.com/technologynoteniu/posts/196695848831222)
 - [2020/12/29 -  Kubernetes 管理經驗談]( https://www.facebook.com/technologynoteniu/posts/195388485628625)

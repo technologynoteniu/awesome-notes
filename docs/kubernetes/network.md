@@ -1,3 +1,4 @@
+- [2021/01/29 -  Kubernetes Pod 如何透過 CNI 獲取 IP]( https://www.facebook.com/technologynoteniu/posts/217032360130904)
 - [2021/01/17 -  Ingress 介紹文](https://www.facebook.com/technologynoteniu/posts/209045874262886)
 - [2021/01/14 -  SDN 閒談]( https://www.facebook.com/technologynoteniu/posts/207099121124228)
 - [2020/12/17 -  為什麼 Linked 決定自行打造 Linkerd2-proxy 而不使用主流的 Enovy]( https://www.facebook.com/technologynoteniu/posts/185215013312639)

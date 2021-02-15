@@ -1,3 +1,5 @@
+- [2021/02/04 -  DevOps 面試經驗談]( https://www.facebook.com/technologynoteniu/posts/220867733080700)
+- [2021/02/02 -  軟體工程師該如何撰寫一份有價值的技術文件]( https://www.facebook.com/technologynoteniu/posts/219597926541014)
 - [2021/01/15 -  勇敢說不，針對工作排列優先度]( https://www.facebook.com/technologynoteniu/posts/207776997723107)
 - [2021/01/13 - Rancher 針對 HCI 超融合架構所打造的 k8s 新專案]( https://www.facebook.com/technologynoteniu/posts/206446664522807)
 - [2021/01/11 - 自建 Container Orchestration 平台的三兩事 https://www.facebook.com/technologynoteniu/posts/205169744650499]()

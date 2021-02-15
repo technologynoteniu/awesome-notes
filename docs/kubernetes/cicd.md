@@ -1,3 +1,4 @@
+- [2021/02/14 -  如何透過 ArgoRollout 來達到金絲雀部署]( https://www.facebook.com/technologynoteniu/posts/227319199102220)
 - [2021/01/06 -  git pre-commit hook 的妙用]( https://www.facebook.com/technologynoteniu/posts/200872581746882)
 - [2021/01/04 -  helmfile 介紹]( https://www.facebook.com/technologynoteniu/posts/199482255219248)
 - [2020/12/23 -  微軟專案 Bedrock 分享]( https://www.facebook.com/technologynoteniu/posts/190725829428224)
