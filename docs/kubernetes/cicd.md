@@ -1,3 +1,4 @@
+- [2021/02/18 -  Jenkins Operator]( https://www.facebook.com/technologynoteniu/posts/229898645510942)
 - [2021/02/14 -  如何透過 ArgoRollout 來達到金絲雀部署]( https://www.facebook.com/technologynoteniu/posts/227319199102220)
 - [2021/01/06 -  git pre-commit hook 的妙用]( https://www.facebook.com/technologynoteniu/posts/200872581746882)
 - [2021/01/04 -  helmfile 介紹]( https://www.facebook.com/technologynoteniu/posts/199482255219248)
