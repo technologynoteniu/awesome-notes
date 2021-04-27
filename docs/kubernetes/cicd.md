@@ -1,3 +1,4 @@
+- [2021/04/02 -  Jenkins on Kubernetes]( https://www.facebook.com/technologynoteniu/posts/258246896009450)
 - [2021/03/19 -  資安與 CI/CD 整合的架構談]( https://www.facebook.com/technologynoteniu/posts/248697066964433)
 - [2021/02/18 -  Jenkins Operator]( https://www.facebook.com/technologynoteniu/posts/229898645510942)
 - [2021/02/14 -  如何透過 ArgoRollout 來達到金絲雀部署]( https://www.facebook.com/technologynoteniu/posts/227319199102220)

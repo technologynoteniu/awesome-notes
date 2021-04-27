@@ -1,4 +1,4 @@
-- [2021/03/21 -  kubernetes 維運小工具]( https://www.facebook.com/technologynoteniu/posts/250015816832558?__cft__[0]=AZVARNjAmFO43VdMfpGw2GA7nLhQC5Ka0YSGRCiF2pEQ0lu6Bpe2NfFeguhYaue-tKKIeyhWshqUfR6Js861GNfyNaLxLzx3j-HjbNudWq2j92Qayn1CGzl6Va8fbEifP-PWNUU4zhjBZmuU5-LhIIJPLeG6gQhUQx3CuUQIMGquqA&__tn__=%2CO%2CP-R)
+- [2021/03/21 -  kubernetes 維運小工具]( https://www.facebook.com/technologynoteniu/posts/250015816832558)
 - [2021/02/16 - 透過 Terraform 與 GitHub Pages 來打造一個維修中的頁面](https://www.facebook.com/technologynoteniu/posts/228590802308393)
 - [2021/02/04 -  DevOps 面試經驗談]( https://www.facebook.com/technologynoteniu/posts/220867733080700)
 - [2021/02/02 -  軟體工程師該如何撰寫一份有價值的技術文件]( https://www.facebook.com/technologynoteniu/posts/219597926541014)
