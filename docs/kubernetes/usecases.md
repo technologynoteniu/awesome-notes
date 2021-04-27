@@ -1,3 +1,6 @@
+- [2021/04/24 -  GKE 使用上因為底層硬碟問題導致 Statefulset無法擴張](https://www.facebook.com/technologynoteniu/posts/273009101199896)
+- [2021/04/22 -  第三方函式庫引發的資安問題探討](https://www.facebook.com/technologynoteniu/posts/271645274669612)
+- [2021/04/20 -  Intuit 探討管理200個叢集的經驗談]( https://www.facebook.com/technologynoteniu/posts/270315501469256)
 - [2021/04/12 -  Serverless 年代下依然要使用k8s的四個理由]( https://www.facebook.com/technologynoteniu/posts/264979925336147)
 - [2021/04/10 -  Netflix 如何打造自己的 Tracing System]( https://www.facebook.com/technologynoteniu/posts/263624618805011)
 - [2021/03/31 -  CNCF 科技雷達第四篇 探討 Secret Management]( https://www.facebook.com/technologynoteniu/posts/256963952804411)

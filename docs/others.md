@@ -1,3 +1,4 @@
+- [2021/04/28 -  metrics 設計上的思路探討](https://www.facebook.com/technologynoteniu/posts/274441227723350)
 - [2021/03/21 -  kubernetes 維運小工具]( https://www.facebook.com/technologynoteniu/posts/250015816832558)
 - [2021/02/16 - 透過 Terraform 與 GitHub Pages 來打造一個維修中的頁面](https://www.facebook.com/technologynoteniu/posts/228590802308393)
 - [2021/02/04 -  DevOps 面試經驗談]( https://www.facebook.com/technologynoteniu/posts/220867733080700)
