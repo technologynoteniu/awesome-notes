@@ -1,3 +1,8 @@
+- [2021/03/31 -  CNCF 科技雷達第四篇 探討 Secret Management]( https://www.facebook.com/technologynoteniu/posts/256963952804411?__cft__[0]=AZXOxjUQ4njtT-0gPj2lkqT2BTp8lhIxiQ5rFktYCukY9P-S2qGkJ2WuO0A9p7RB3ddoSMapvBkOPtCtN3PX6R8SfI-7dhCOfaeneWFtB2EROfxJk78Kb0wddI7p91iDa0_ZxOixS15u3eKUFUxZsRztw693SR0J1yHHD0VBTKVnJQ&__tn__=%2CO%2CP-R)
+- [2021/03/23 -  CNCF 科技雷達第三篇 Storage & Database 的選擇]( https://www.facebook.com/technologynoteniu/posts/251654163335390?__cft__[0]=AZXTfG-XwmLYqm2wK55_6fdCvvZ__IoeHQD1kz6TwyI-l0ZKYwesPaYexcred82Pr3Ck9X9ogKKKKxX9tN1wH0-exxpiaftyh5MTDU_P2Cjns6jn1-kywtZrbVwvb4MMg0KKP1o5tE3-AdzBiSJxcKGViKGhaNP6imlvkxcrjdMwsw&__tn__=%2CO%2CP-R)
+- [2021/03/17 -  Kubernetes 叢集被惡意挖礦經驗談]( https://www.facebook.com/technologynoteniu/posts/247486180418855)
+- [2021/03/15 -  AWS 導入k8s 後服務慢上十倍]( https://www.facebook.com/technologynoteniu/posts/246130560554417)
+- [2021/03/13 -  Istio 整合卡住]( https://www.facebook.com/technologynoteniu/posts/244882024012604)
 - [2021/03/11 -  GKE 節點與Pod無法自動擴展]( https://www.facebook.com/technologynoteniu/posts/243580810809392)
 - [2021/03/09 -  CPU Limit 造成服務效能不佳]( https://www.facebook.com/technologynoteniu/posts/242276610939812)
 - [2021/03/07 -  Conntrack 造成 DNS 出問題]( https://www.facebook.com/technologynoteniu/posts/240948024406004)
