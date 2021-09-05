@@ -1,3 +1,8 @@
+- [2021/07/30 -  軟體工程師十年經驗分享]( https://www.facebook.com/technologynoteniu/posts/339605564540249)
+- [2021/07/24 -  LeeCode 500題後的人生經驗]( https://www.facebook.com/technologynoteniu/posts/335672778266861)
+- [2021/07/08 -  HTTP 599 錯誤的除錯經驗]( https://www.facebook.com/technologynoteniu/posts/324926429341496)
+- [2021/06/23 -  Netflix 的 eBPF 介紹文]( https://www.facebook.com/technologynoteniu/posts/315150713652401)
+- [2021/06/09 -  Netflix 內部架構分享文]( https://www.facebook.com/technologynoteniu/posts/306146844552788)
 - [2021/05/26 -  如何使用 Kubecost 來幫 Rancher 專案評估成本]( https://www.facebook.com/technologynoteniu/posts/296972245470248)
 - [2021/05/24 -  作者淺談為什麼不再使用 minikube 而改用 KIND]( https://www.facebook.com/technologynoteniu/posts/295577298943076)
 - [2021/05/18 -  作者探討 2021 不同的日誌視覺化分析工具]( https://www.facebook.com/technologynoteniu/posts/288802732953866)

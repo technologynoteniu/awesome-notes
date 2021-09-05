@@ -1,2 +1,0 @@
-- [2021/06/01 -  Kubernetes 15種不要使用的部署策略與模式]( https://www.facebook.com/technologynoteniu/posts/300958348404971)
-- [2021/04/30 -  Config Map 使用上可能會造成的 JSON 格式跑版問題]( https://www.facebook.com/technologynoteniu/posts/277058847461588)

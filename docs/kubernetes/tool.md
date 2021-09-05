@@ -1,3 +1,4 @@
+- [2021/07/26 -  Kubernetes 的開源工具]( https://www.facebook.com/technologynoteniu/posts/336960611471411)
 - [2020/12/19 -  kubectl plugin 生態與工具介紹](https://www.facebook.com/technologynoteniu/posts/187434636424010)
 - [2020/12/10 - 2021 DevOps/SRE 可注意的工具](https://www.facebook.com/technologynoteniu/posts/180100747157399)
 - [2020/12/7 - 使用 Helm Secret 於 Helm Chart 中保護你的 Secret 內容](https://www.facebook.com/technologynoteniu/posts/177758844058256)

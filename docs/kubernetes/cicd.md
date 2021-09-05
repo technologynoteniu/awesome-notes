@@ -1,3 +1,5 @@
+- [2021/07/22 -  DevSecOps 的導入經驗]( https://www.facebook.com/technologynoteniu/posts/334331091734363)
+- [2021/06/11 -  GitOps 的起源與發展]( https://www.facebook.com/technologynoteniu/posts/307451354422337)
 - [2021/05/30 -  Tekton 使用教學介紹]( https://www.facebook.com/technologynoteniu/posts/299635081870631)
 - [2021/04/02 -  Jenkins on Kubernetes]( https://www.facebook.com/technologynoteniu/posts/258246896009450)
 - [2021/03/19 -  資安與 CI/CD 整合的架構談]( https://www.facebook.com/technologynoteniu/posts/248697066964433)
