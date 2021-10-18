@@ -1,3 +1,5 @@
+- [2021/08/07 -  2021 必須理解的 IaC 工具](https://www.facebook.com/technologynoteniu/posts/344913647342774)
+- [2021/08/05 -  KubeStack 基於 GitOps 來處理 Terraform]( https://www.facebook.com/technologynoteniu/posts/343595084141297)
 - [2021/07/22 -  DevSecOps 的導入經驗]( https://www.facebook.com/technologynoteniu/posts/334331091734363)
 - [2021/06/11 -  GitOps 的起源與發展]( https://www.facebook.com/technologynoteniu/posts/307451354422337)
 - [2021/05/30 -  Tekton 使用教學介紹]( https://www.facebook.com/technologynoteniu/posts/299635081870631)

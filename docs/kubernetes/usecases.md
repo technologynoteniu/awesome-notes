@@ -1,3 +1,7 @@
+- [2021/08/29 -  如何透過 Harbor & Keycloak & Istio 來打造 Kubernetes 環境]( https://www.facebook.com/technologynoteniu/posts/359651409202331)
+- [2021/08/21 -  Argo Worflows 的使用者調查報告]( https://www.facebook.com/technologynoteniu/posts/354374916396647)
+- [2021/08/19 -  HelloFresh 如何使用 Ambassador 來處理流量應用程式]( https://www.facebook.com/technologynoteniu/posts/353036783197127)
+- [2021/08/01 -  Why Ably 評估後不使用 Kubernetes]( https://www.facebook.com/technologynoteniu/posts/341088541058618)
 - [2021/07/30 -  軟體工程師十年經驗分享]( https://www.facebook.com/technologynoteniu/posts/339605564540249)
 - [2021/07/24 -  LeeCode 500題後的人生經驗]( https://www.facebook.com/technologynoteniu/posts/335672778266861)
 - [2021/07/08 -  HTTP 599 錯誤的除錯經驗]( https://www.facebook.com/technologynoteniu/posts/324926429341496)
