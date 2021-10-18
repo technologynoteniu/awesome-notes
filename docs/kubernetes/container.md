@@ -1,3 +1,5 @@
+- [2021/10/07 -  Azure 上的資安漏洞，讓你可以存取他人 container]( https://www.facebook.com/technologynoteniu/posts/385137573320381)
+- [2021/09/12 -  Docker 員工談為什麼 Docker 市場會失敗]( https://www.facebook.com/technologynoteniu/posts/369088391591966)
 - [2021/07/04 -  Dockerfile 的 20 種 Best Practice]( https://www.facebook.com/technologynoteniu/posts/322343309599808)
 - [2021/06/06 -  Docker Contianer的Best Practice]( https://www.facebook.com/technologynoteniu/posts/304207338080072)
 - [2021/05/28 -  探討 Docker 是如何使用硬碟空間以及該如何有效率地清除]( https://www.facebook.com/technologynoteniu/posts/298375648663241)

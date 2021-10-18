@@ -1,3 +1,6 @@
+- [2021/10/04 -  CloudFlare 探討 FB 出包原因]( https://www.facebook.com/technologynoteniu/posts/383157193518419)
+- [2021/09/22 -  PING 指令介紹]( https://www.facebook.com/technologynoteniu/posts/375620037605468)
+- [2021/09/06 -  SO_REUSEPORT 的好處介紹](https://www.facebook.com/technologynoteniu/posts/365012185332920)
 - [2021/07/18 -  HTTP/3 的介紹]( https://www.facebook.com/technologynoteniu/posts/331610322006440)
 - [2021/04/25 -  從網路觀點來看導入Kubernetes 的可能痛點]( https://www.facebook.com/technologynoteniu/posts/273665154467624)
 - [2021/04/14 -  EKS 中如何避免IP 發放完畢](https://www.facebook.com/technologynoteniu/posts/266377761863030)

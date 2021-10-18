@@ -1,0 +1,2 @@
+- [2021/09/10 -  提升 on-call 的效率方式]( https://www.facebook.com/technologynoteniu/posts/367687458398726)
+- [2021/09/01 -  ITHOME 鐵人賽]( https://www.facebook.com/technologynoteniu/posts/362290215605117)
