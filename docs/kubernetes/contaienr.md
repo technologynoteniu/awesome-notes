@@ -1,2 +1,0 @@
-- [2021/01/25 -  Docker 20.10 的改變](https://www.facebook.com/technologynoteniu/posts/214479493719524)
-- [2021/01/23 -  Dockerfile 的小技巧](https://www.facebook.com/technologynoteniu/posts/213107267190080)
