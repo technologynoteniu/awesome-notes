@@ -1,3 +1,8 @@
+- [2021/11/26 -  Dockershim 即將移除]( https://www.facebook.com/technologynoteniu/posts/418869913280480)
+- [2021/11/02 -  F5 繼續分享如何選擇合適的 Ingress Controller]( https://www.facebook.com/technologynoteniu/posts/402992384868233)
+- [2021/10/31 -  F5 分享如何選擇一個合適的 Ingress Controller]( https://www.facebook.com/technologynoteniu/posts/401729838327821)
+- [2021/10/25 -  降低 AWS 上的 Kubernetes 價格]( https://www.facebook.com/technologynoteniu/posts/397497722084366)
+- [2021/10/17 -  Kubernetes Pod Eviction 介紹]( https://www.facebook.com/technologynoteniu/posts/392249045942567)
 - [2021/10/13 -  探討 Kubernetes 內重要的六個概念]( https://www.facebook.com/technologynoteniu/posts/389383852895753)
 - [2021/10/11 -  Kubernetes 即將支援 swap]( https://www.facebook.com/technologynoteniu/posts/388057803028358)
 - [2021/10/03 -  探討 kubernetes 未來的新領域]( https://www.facebook.com/technologynoteniu/posts/382702036897268)

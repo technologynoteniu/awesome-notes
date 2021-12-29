@@ -1,3 +1,7 @@
+- [2021/12/24 -  該停止使用 python3.6了](https://www.facebook.com/technologynoteniu/posts/436364391531032)
+- [2021/12/05 -  重構的教學網站，包含各語言的實作範例]( https://www.facebook.com/technologynoteniu/posts/424420129392125)
+- [2021/11/15 -  Airflow 與 Prefect 的比較]( https://www.facebook.com/technologynoteniu/posts/411582814009190)
+- [2021/11/09 -  三個自動化好用工具]( https://www.facebook.com/technologynoteniu/posts/407666134400858)
 - [2021/07/26 -  Kubernetes 的開源工具]( https://www.facebook.com/technologynoteniu/posts/336960611471411)
 - [2020/12/19 -  kubectl plugin 生態與工具介紹](https://www.facebook.com/technologynoteniu/posts/187434636424010)
 - [2020/12/10 - 2021 DevOps/SRE 可注意的工具](https://www.facebook.com/technologynoteniu/posts/180100747157399)
