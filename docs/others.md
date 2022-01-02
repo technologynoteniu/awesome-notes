@@ -1,4 +1,5 @@
 - [2022/01/02 - 「多年工作經驗總是搞砸電話面試， why ?」](https://www.facebook.com/110694344098040/posts/441548271012644/)
+- [2021/12/30 -  Anti-Corruption 模式介紹]( https://www.facebook.com/technologynoteniu/posts/440134991153972)
 - [2021/12/28 -  設計 Dating App 的系統思路]( https://www.facebook.com/technologynoteniu/posts/438859757948162)
 - [2021/12/26 -  Ambassador 模式介紹](https://www.facebook.com/technologynoteniu/posts/437640171403454)
 - [2021/12/20 -  遊戲設計中的人物打造過程]( https://www.facebook.com/technologynoteniu/posts/433800235120781)
