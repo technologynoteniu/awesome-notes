@@ -1,3 +1,4 @@
+- [2022/01/04 - 「Meta 如何打造一個供多團隊使用的 SLI/SLO 設定與觀測平台」](https://www.facebook.com/110694344098040/posts/442860054214799/)
 - [2021/12/22 -  工作 20 年的系統架構原則談]( https://www.facebook.com/technologynoteniu/posts/435021938331944)
 - [2021/12/14 -  Infrastructure 的經驗談]( https://www.facebook.com/technologynoteniu/posts/430069308827207)
 - [2021/12/07 -  Grafana 安全性漏洞]( https://www.facebook.com/technologynoteniu/posts/425501989283939)
