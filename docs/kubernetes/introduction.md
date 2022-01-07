@@ -1,3 +1,4 @@
+- [2022/01/07 - 「透過 Kubefarm 來自動化幫實體機器打造基於 Kubernetes in Kubernetes 的 Kubernetes 環境」](https://www.facebook.com/110694344098040/posts/444802554020549/)
 - [2021/11/26 -  Dockershim 即將移除]( https://www.facebook.com/technologynoteniu/posts/418869913280480)
 - [2021/11/02 -  F5 繼續分享如何選擇合適的 Ingress Controller]( https://www.facebook.com/technologynoteniu/posts/402992384868233)
 - [2021/10/31 -  F5 分享如何選擇一個合適的 Ingress Controller]( https://www.facebook.com/technologynoteniu/posts/401729838327821)
