@@ -1,3 +1,4 @@
+- [2022/01/09 - 「使用 OpenKruise v1.0 提供更進階的 workload 部署與升級」](https://www.facebook.com/110694344098040/posts/446029147231223/)
 - [2021/12/24 -  該停止使用 python3.6了](https://www.facebook.com/technologynoteniu/posts/436364391531032)
 - [2021/12/05 -  重構的教學網站，包含各語言的實作範例]( https://www.facebook.com/technologynoteniu/posts/424420129392125)
 - [2021/11/15 -  Airflow 與 Prefect 的比較]( https://www.facebook.com/technologynoteniu/posts/411582814009190)
