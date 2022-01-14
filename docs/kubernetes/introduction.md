@@ -1,4 +1,4 @@
-- [2022/01/13 - 「Kubernetes]( system-reserved)
+- [2022/01/13 - 「Kubernetes system-reserved kube-reserved cgroup 與 capacity allocatable 的複雜關係」](https://www.facebook.com/110694344098040/posts/448691766964961/)
 - [2022/01/07 - 「透過 Kubefarm 來自動化幫實體機器打造基於 Kubernetes in Kubernetes 的 Kubernetes 環境」](https://www.facebook.com/110694344098040/posts/444802554020549/)
 - [2021/11/26 -  Dockershim 即將移除]( https://www.facebook.com/technologynoteniu/posts/418869913280480)
 - [2021/11/02 -  F5 繼續分享如何選擇合適的 Ingress Controller]( https://www.facebook.com/technologynoteniu/posts/402992384868233)
