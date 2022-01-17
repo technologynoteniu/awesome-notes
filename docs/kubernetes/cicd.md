@@ -1,3 +1,4 @@
+- [2022/01/17 - 「The pains of GitOps 1.0」](https://www.facebook.com/110694344098040/posts/451024380065033/)
 - [2021/11/18 -  Flux 內的資安提升方式]( https://www.facebook.com/technologynoteniu/posts/413598527140952)
 - [2021/08/07 -  2021 必須理解的 IaC 工具](https://www.facebook.com/technologynoteniu/posts/344913647342774)
 - [2021/08/05 -  KubeStack 基於 GitOps 來處理 Terraform]( https://www.facebook.com/technologynoteniu/posts/343595084141297)
