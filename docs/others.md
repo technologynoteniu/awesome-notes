@@ -1,6 +1,8 @@
 - [2022/02/11 - 「GitHub 上常常看到的奇妙  commit 到底是什麼？」](https://www.facebook.com/110694344098040/posts/466454705188667/)
 - [2022/02/04 - 「如何用 2297 個 Linux Kernel Patches 來重新整理所有的 header file 並提升整個 Kernel 建置時間高達 78%」](https://www.facebook.com/110694344098040/posts/462101998957271/)
 - [2022/01/27 - 「PwnKit 長達 12 年可以讓一般使用者輕鬆變成 Root 的 CVE)](https://www.facebook.com/technologynoteniu/posts/457303766103761)
+- [2022/01/24 - 「Linux 5.17 將使用 BLAKE2s 來替代 SAH1 來達到更安全更快速的隨機亂數產生器」](https://www.facebook.com/110694344098040/posts/455424192958385/)
+- [2022/01/11 - 「NPM 的 colors modules 打亂一堆人...」](https://www.facebook.com/110694344098040/posts/447439463756858/)
 - [2022/01/02 - 「多年工作經驗總是搞砸電話面試， why ?」](https://www.facebook.com/110694344098040/posts/441548271012644/)
 - [2021/12/30 -  Anti-Corruption 模式介紹]( https://www.facebook.com/technologynoteniu/posts/440134991153972)
 - [2021/12/28 -  設計 Dating App 的系統思路]( https://www.facebook.com/technologynoteniu/posts/438859757948162)
