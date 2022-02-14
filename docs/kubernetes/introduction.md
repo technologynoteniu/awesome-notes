@@ -1,3 +1,4 @@
+- [2022/02/14 - 「 談談遷移應用程式到  Kubernetes 內的失敗經驗談」](https://www.facebook.com/110694344098040/posts/468312305002907/)
 - [2022/01/21 - 「Kubernetes 內透過 DNS-01 處理 wildcard TLS 的兩三事」](https://www.facebook.com/110694344098040/posts/453574999809971/)
 - [2022/01/13 - 「Kubernetes system-reserved kube-reserved cgroup 與 capacity allocatable 的複雜關係」](https://www.facebook.com/110694344098040/posts/448691766964961/)
 - [2022/01/07 - 「透過 Kubefarm 來自動化幫實體機器打造基於 Kubernetes in Kubernetes 的 Kubernetes 環境」](https://www.facebook.com/110694344098040/posts/444802554020549/)

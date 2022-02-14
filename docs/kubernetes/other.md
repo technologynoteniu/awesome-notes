@@ -1,0 +1,2 @@
+- [2022/01/24 - 「Linux 5.17 將使用 BLAKE2s 來替代 SAH1 來達到更安全更快速的隨機亂數產生器」](https://www.facebook.com/110694344098040/posts/455424192958385/)
+- [2022/01/11 - 「NPM 的 colors modules 打亂一堆人...」](https://www.facebook.com/110694344098040/posts/447439463756858/)
