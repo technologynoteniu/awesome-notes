@@ -1,3 +1,4 @@
+- [2022/03/02 - 「Golang 原始碼的的版本控制歷史」](https://www.facebook.com/110694344098040/posts/478726680628136/)
 - [2022/02/21 - 「macOS 的 fsync 實作其實跟大家想像的完全不同 」](https://www.facebook.com/110694344098040/posts/472771127890358/)
 - [2022/02/11 - 「GitHub 上常常看到的奇妙  commit 到底是什麼？」](https://www.facebook.com/110694344098040/posts/466454705188667/)
 - [2022/02/04 - 「如何用 2297 個 Linux Kernel Patches 來重新整理所有的 header file 並提升整個 Kernel 建置時間高達 78%」](https://www.facebook.com/110694344098040/posts/462101998957271/)
