@@ -1,3 +1,4 @@
+- [2022/03/04 - 「Kubernetes 紀錄片 」](https://www.facebook.com/110694344098040/posts/479989620501842/)
 - [2022/03/02 - 「Golang 原始碼的的版本控制歷史」](https://www.facebook.com/110694344098040/posts/478726680628136/)
 - [2022/02/21 - 「macOS 的 fsync 實作其實跟大家想像的完全不同 」](https://www.facebook.com/110694344098040/posts/472771127890358/)
 - [2022/02/11 - 「GitHub 上常常看到的奇妙  commit 到底是什麼？」](https://www.facebook.com/110694344098040/posts/466454705188667/)
