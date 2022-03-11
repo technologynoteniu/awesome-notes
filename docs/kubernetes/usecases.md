@@ -1,3 +1,4 @@
+- [2022/03/11 - 「透過 Helm 與 Terraform 來自動 Re-new Cloudflare origin CA」](https://www.facebook.com/110694344098040/posts/484443583389779/)
 - [2022/02/23 - 「Paypal 如何調整 Kubernetes 讓其規模達到四千節點，20萬個 Pod」](https://www.facebook.com/110694344098040/posts/474030197764451/)
 - [2022/01/10 - 「2021年回顧，因為 DB 的效能的爭論所以我女友跟我分手了....」](https://www.facebook.com/110694344098040/posts/446622227171915/)
 - [2022/01/04 - 「Meta 如何打造一個供多團隊使用的 SLI/SLO 設定與觀測平台」](https://www.facebook.com/110694344098040/posts/442860054214799/)
