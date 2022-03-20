@@ -1,3 +1,6 @@
+- [2022/02/09 - 「透過一點小技巧讓你的 Makefile 有一個更好的 Help說明」](https://www.facebook.com/110694344098040/posts/465179208649550/)
+- [2022/02/07 - 「視覺化系統內 iptables 規則」](https://www.facebook.com/110694344098040/posts/463989852101819/)
+- [2022/02/02 - 「如何使用 jq 讓你的 kubectl更為強大」](https://www.facebook.com/110694344098040/posts/461299162370888/)
 - [2022/01/09 - 「使用 OpenKruise v1.0 提供更進階的 workload 部署與升級」](https://www.facebook.com/110694344098040/posts/446029147231223/)
 - [2021/12/24 -  該停止使用 python3.6了](https://www.facebook.com/technologynoteniu/posts/436364391531032)
 - [2021/12/05 -  重構的教學網站，包含各語言的實作範例]( https://www.facebook.com/technologynoteniu/posts/424420129392125)
