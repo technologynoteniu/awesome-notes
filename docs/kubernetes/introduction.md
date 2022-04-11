@@ -1,3 +1,4 @@
+- [2022/04/11 - 「升級 Kubernetes 1.22 的注意事項」](https://www.facebook.com/110694344098040/posts/504129478087856/)
 - [2022/04/06 - 「kubectl delete 的行為跟 docker delete 完全不同」](https://www.facebook.com/110694344098040/posts/500920028408801/)
 - [2022/02/16 - 「 Kubernetes 四種不同開發環境的比較」](https://www.facebook.com/110694344098040/posts/469625948204876/)
 - [2022/02/14 - 「 談談遷移應用程式到  Kubernetes 內的失敗經驗談」](https://www.facebook.com/110694344098040/posts/468312305002907/)
