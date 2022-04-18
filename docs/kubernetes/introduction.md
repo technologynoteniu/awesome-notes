@@ -1,3 +1,4 @@
+- [2022/04/18 - 「強化 Kubernetes 叢集的必備工具」](https://www.facebook.com/110694344098040/posts/508652284302242/)
 - [2022/04/13 - 「透過 Kubernetes Event-Driver Autoscaler(KEDA) 來根據各種指標動態擴充容器」](https://www.facebook.com/110694344098040/posts/505370067963797/)
 - [2022/04/11 - 「升級 Kubernetes 1.22 的注意事項」](https://www.facebook.com/110694344098040/posts/504129478087856/)
 - [2022/04/06 - 「kubectl delete 的行為跟 docker delete 完全不同」](https://www.facebook.com/110694344098040/posts/500920028408801/)
