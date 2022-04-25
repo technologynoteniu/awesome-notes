@@ -1,3 +1,4 @@
+- [2022/04/25 - 「三座獨立 k8s cluster 還是一個跨三個地區的 k8s cluster ?」](https://www.facebook.com/110694344098040/posts/513123093855161/)
 - [2022/04/18 - 「強化 Kubernetes 叢集的必備工具」](https://www.facebook.com/110694344098040/posts/508652284302242/)
 - [2022/04/13 - 「透過 Kubernetes Event-Driver Autoscaler(KEDA) 來根據各種指標動態擴充容器」](https://www.facebook.com/110694344098040/posts/505370067963797/)
 - [2022/04/11 - 「升級 Kubernetes 1.22 的注意事項」](https://www.facebook.com/110694344098040/posts/504129478087856/)
