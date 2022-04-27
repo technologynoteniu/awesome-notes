@@ -1,3 +1,4 @@
+- [2022/04/27 - 「istio 下因為YAML 與 Go template 結合產生的 CVE」](https://www.facebook.com/110694344098040/posts/514367947064009/)
 - [2022/04/22 - 「DevOps 的 2022 學習之路」](https://www.facebook.com/110694344098040/posts/511161867384617/)
 - [2022/04/20 - 「DevOps 的 2022 學習之路」](https://www.facebook.com/110694344098040/posts/509922080841929/)
 - [2022/03/30 - 「軟體工程師你真的工作的很開心嗎??」](https://www.facebook.com/110694344098040/posts/496532335514237/)
