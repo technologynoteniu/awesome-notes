@@ -1,3 +1,4 @@
+- [2022/05/09 - 「提升 DevOps 技術的免費書籍」](https://www.facebook.com/110694344098040/posts/522463922921078/)
 - [2022/05/02 - 「成為軟體架構師的閱讀之路」](https://www.facebook.com/110694344098040/posts/517604056740398/)
 - [2022/04/27 - 「istio 下因為YAML 與 Go template 結合產生的 CVE」](https://www.facebook.com/110694344098040/posts/514367947064009/)
 - [2022/04/22 - 「DevOps 的 2022 學習之路」](https://www.facebook.com/110694344098040/posts/511161867384617/)
