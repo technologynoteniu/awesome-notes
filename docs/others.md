@@ -1,3 +1,4 @@
+- [2022/05/30 - 「如何寫出有意義的討論訊息 」](https://www.facebook.com/110694344098040/posts/536745534826250/)
 - [2022/05/27 - 「如何提供專業 Code Review 意見」](https://www.facebook.com/110694344098040/posts/534629905037813/)
 - [2022/05/23 - 「Tetragon]( 基於 eBPF 的 Kubernetes 資安管理工具」)
 - [2022/05/09 - 「提升 DevOps 技術的免費書籍」](https://www.facebook.com/110694344098040/posts/522463922921078/)
