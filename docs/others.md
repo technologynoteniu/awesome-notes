@@ -1,3 +1,4 @@
+- [2022/06/06 - 「使用 StressChaos 的經驗來學習 Pod Memory 使用情況」](https://www.facebook.com/110694344098040/posts/541639724336831/)
 - [2022/06/03 - 「/proc/meminfo 與 free 指令的內容比較」](https://www.facebook.com/110694344098040/posts/539532301214240/)
 - [2022/06/01 - 「goss]( 一個簡易且迅速的 server 驗證工具」)
 - [2022/05/30 - 「如何寫出有意義的討論訊息 」](https://www.facebook.com/110694344098040/posts/536745534826250/)
