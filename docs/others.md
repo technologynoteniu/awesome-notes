@@ -1,3 +1,4 @@
+- [2022/06/15 - 「啟動 container 直接 kernel panic 的 bug」](https://www.facebook.com/110694344098040/posts/547641757069961/)
 - [2022/06/13 - 「分散式系統上的常見網路謬誤」](https://www.facebook.com/110694344098040/posts/546352647198872/)
 - [2022/06/09 - 「為什麼有些工程師不相信 Best Practices 」](https://www.facebook.com/110694344098040/posts/543678767466260/)
 - [2022/06/06 - 「使用 StressChaos 的經驗來學習 Pod Memory 使用情況」](https://www.facebook.com/110694344098040/posts/541639724336831/)
