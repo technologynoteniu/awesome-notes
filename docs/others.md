@@ -1,3 +1,4 @@
+- [2022/07/11 - 「SRE 的工作介绍」](https://www.facebook.com/110694344098040/posts/565230311977772/)
 - [2022/06/29 - 「DevOps is a failure」](https://www.facebook.com/110694344098040/posts/557240022776801/)
 - [2022/06/27 - 「面試人生 - 設計一個簡易的分散式 Job Scheduler」](https://www.facebook.com/110694344098040/posts/555780526256084/)
 - [2022/06/15 - 「啟動 container 直接 kernel panic 的 bug」](https://www.facebook.com/110694344098040/posts/547641757069961/)
