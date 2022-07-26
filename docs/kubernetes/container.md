@@ -1,4 +1,5 @@
 - [2022/05/04 - 「容器的除錯之路，遇到 Permission Denied 該怎麼辦」](https://www.facebook.com/110694344098040/posts/519035143263956/)
+- [2022/04/04 - 「Dockerfile 中透過 COPY --chomd 比透過 RUN chomd 可以省下更多空間」](https://www.facebook.com/110694344098040/posts/499630591871078/)
 - [2022/03/28 - 「如何於 Docker 環境中運行 rootless 模式」](https://www.facebook.com/110694344098040/posts/495310558969748/)
 - [2022/02/18 - 「 取代 Docker Desktop 的高效率開發環境」](https://www.facebook.com/110694344098040/posts/470851184749019/)
 - [2021/12/18 -  Container Dockerfile 中的 Shell/Exec 格式差異]( https://www.facebook.com/technologynoteniu/posts/432574848576653)
