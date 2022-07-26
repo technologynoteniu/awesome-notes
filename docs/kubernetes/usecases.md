@@ -1,3 +1,4 @@
+- [2022/07/17 -  Airbnb 是如何因應業務型態來動態調整 Kubernetes 叢集大小的?」]( https://www.facebook.com/technologynoteniu/posts/pfbid02n3QBMfXFMdbz6r7tJCLe5w8mtzz2cY6cNYfuswgwsoJiYDy22bke1Re8TvS9JDrNl)
 - [2022/04/29 - 「使用 serverless 5年後的心酸經驗談」](https://www.facebook.com/110694344098040/posts/515618066938997/)
 - [2022/03/23 - 「為什麼 3A 大作的遊戲室都不愛喜歡使用 STL」](https://www.facebook.com/110694344098040/posts/492076062626531/)
 - [2022/03/18 - 「Facebook 內的文化特別之處」](https://www.facebook.com/110694344098040/posts/488927506274720/)

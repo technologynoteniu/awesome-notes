@@ -1,3 +1,5 @@
+- [2022/07/22 -  「就是一份唸書的書單」](https://www.facebook.com/technologynoteniu/posts/pfbid029EEXaYLceFz4wsovHW8K6Rgi4248ZXBx6vkHmL9cNVnoACEYRrf92KLiTw5mSNZzl)
+- [2022/07/21 - 「探討 Linux 系統下 Cache 與 Buffer 的差異」](https://www.facebook.com/technologynoteniu/posts/pfbid02RwumW2dXdsYnoS4pp5cMzwcj2mdnmKDVi6UNWq7g4i8bK9qzBdaTorPAC1hQdwNsl)
 - [2022/07/11 - 「SRE 的工作介绍」](https://www.facebook.com/110694344098040/posts/565230311977772/)
 - [2022/06/29 - 「DevOps is a failure」](https://www.facebook.com/110694344098040/posts/557240022776801/)
 - [2022/06/27 - 「面試人生 - 設計一個簡易的分散式 Job Scheduler」](https://www.facebook.com/110694344098040/posts/555780526256084/)

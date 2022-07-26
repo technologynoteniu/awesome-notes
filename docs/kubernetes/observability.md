@@ -1,3 +1,4 @@
+- [2022/07/12 - 「探討微服務架構下如何透過設計模式來打造一個可觀察性(Observability)的系統」](https://www.facebook.com/technologynoteniu/posts/pfbid0ufA3huxstHpwqLeaPPPnRpkXbugKVP53khsGMXtRV8qsKi2wibuSA71USZwGzvKDl)
 - [2021/02/10 -  Prometheus 教學文]( https://www.facebook.com/technologynoteniu/posts/224611209373019)
 - [2020/11/27 - 探討可觀測性的幾個重要 API](https://www.facebook.com/technologynoteniu/posts/168920628275411)
 - [2020/11/4 - Grafana 對 Tracing 伸出魔爪 Tempo](https://www.facebook.com/technologynoteniu/posts/152229139944560)
